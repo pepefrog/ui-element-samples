@@ -2,11 +2,9 @@
 
 A collection of UI element samples written with vanilla web platform features.
 
-## Getting started
 
-1. Clone the repo.
-2. Open an element's subfolder.
-3. Run index.html
+#:hankey::hankey: WHAT I DID :hankey::hankey:
+1.Add card button
 
 ## License
 
