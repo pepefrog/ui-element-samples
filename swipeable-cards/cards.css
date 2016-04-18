@@ -45,3 +45,13 @@ html, body {
   justify-content: space-around;
   cursor: pointer;
 }
+.button{
+  width: 150px;
+  height: 50px;
+  background-color: #24CFC1;
+  color: #fff;
+  border-radius: 30px;
+}
+.button:hover{
+ cursor:pointer;
+}
